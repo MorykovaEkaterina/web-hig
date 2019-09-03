@@ -1,0 +1,4 @@
+# Project exclude paths
+/web-hig/.gradle/
+/web-hig/build/
+/web-hig/build/classes/java/test/
